@@ -1,0 +1,10 @@
+# Environment variables (contains API keys)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test outputs
+test_output*.png
